@@ -118,7 +118,7 @@
                 year: 2024,
                 month: 9,
                 day: 8,
-                hours: 0,
+                hours: 12,
                 minutes: 0,
                 seconds: 0,
                 words: {
